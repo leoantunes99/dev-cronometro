@@ -7,8 +7,6 @@ body {
     align-items: center;
     justify-content: center;
     padding: 2rem;
-    min-height: 100vh;
-    margin: 0;
 }
 
 #timer {
