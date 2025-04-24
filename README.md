@@ -1,6 +1,6 @@
 <h1 align="center">Dev Cronômetro ⏱️</h1>
  
- <h4 align="center">Projeto finalizado utilizando os últimos ensinamentos de JavaScript das aulas do <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h4>
+ <h4 align="center">Projeto responsivo finalizado utilizando os últimos ensinamentos de JavaScript das aulas do <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h4>
  
  <p align="center">
    <a href="#tecnologias">💻 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
